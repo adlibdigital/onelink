@@ -34,7 +34,7 @@
             <span
               class="inline-flex items-center rounded-l-md border border-r-0 border-gray-300 bg-gray-50 px-3 text-sm text-gray-500"
             >
-              <icon name="ph:twitter-logo-duotone" class="w-5 h-5" />
+              <icon name="ph:twitter-logo-duotone" class="w-25 h-25" />
             </span>
             <input
               type="search"
