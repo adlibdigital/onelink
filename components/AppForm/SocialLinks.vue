@@ -1,6 +1,6 @@
 <template>
   <base-form-section
-    title="Social Links"
+    title="Links de Redes Sociais"
     description="Adicione social media links"
   >
     <div class="shadow sm:overflow-hidden sm:rounded-md">
