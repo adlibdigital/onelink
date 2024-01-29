@@ -6,12 +6,12 @@
     <div class="shadow sm:overflow-hidden sm:rounded-md">
       <div class="grid grid-cols-2 gap-8 bg-white px-4 py-5 sm:p-6">
         <div>
-          <label for="facebook" class="block text-sm font-medium text-gray-700"
+          <label for="facebook" class="block text-sm font-medium text-blue-700"
             >Facebook</label
           >
           <div class="mt-1 flex rounded-md shadow-sm">
             <span
-              class="inline-flex items-center rounded-l-md border border-r-0 border-gray-300 bg-gray-50 px-3 text-sm text-gray-500"
+              class="inline-flex items-center rounded-l-md border border-r-0 border-gray-300 bg-gray-550 px-3 text-sm text-gray-500"
             >
               <icon name="ph:facebook-logo-duotone" class="w-5 h-5" />
             </span>
