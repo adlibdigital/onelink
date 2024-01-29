@@ -1,7 +1,7 @@
 <template>
   <base-form-section
     title="Social Links"
-    description="Add some social media links"
+    description="Adicione social media links"
   >
     <div class="shadow sm:overflow-hidden sm:rounded-md">
       <div class="grid grid-cols-2 gap-8 bg-white px-4 py-5 sm:p-6">
